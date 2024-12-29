@@ -2,7 +2,7 @@
 
 - - - 
 ### Confira no que estou trabalhando atualmente
-- 💻 Arch Linux + KDE Plasma: Configuração otimizada para máxima produtividade e personalização no desktop.
+- 💻 Arch Linux + DWM : Configuração otimizada para máxima produtividade e personalização no desktop.
 - ⚙️ Shell Scripts: Criação de scripts para automação de tarefas e otimização do sistema.
 - 📚 Matemática & Física: Estudo contínuo de conceitos avançados para aprimoramento técnico e intelectual.
 
