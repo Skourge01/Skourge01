@@ -8,7 +8,7 @@
 
 ### Meus últimos projetos
 - 🔧 [skouswap](https://github.com/Skourge01/skouswap): Script de swap ( memoria virtual ) para linux
-- 🌐 [skouplasma](https://github.com/Skourge01/skouplasma): minha config file para [kde plasma](https://github.com/KDE/plasma-desktop) [arch linux](https://github.com/archlinux) 
+- 🌐 [skouDWM](https://github.com/Skourge01/skouplasma/blob/main/README.md): minha config file para [DWM](https://dwm.suckless.org/) [arch linux](https://github.com/archlinux) 
 
 ### Atividades e melhorias em andamento
 - ⚡ Otimização do Arch Linux: Ajustes para desempenho em máquinas com pouca memória RAM, incluindo gerenciamento de processos e serviços.
