@@ -15,7 +15,7 @@
 - 🔋 Otimização de CPU e Bateria: Ajustes avançados para melhorar a duração da bateria e desempenho da CPU, utilizando ferramentas como cpupower e tlp.
 
 ### Ferramentas e Tecnologias de Interesse
-- 🗂️ [Dolphin](https://github.com/KDE/dolphin): Gerenciador de arquivos gráfico para facilitar a navegação e gestão de arquivos no KDE Plasma.
+- 🗂️ [Thunar](https://github.com/xfce-mirror/thunar): Gerenciador de arquivos gráfico para facilitar a navegação e gestão de arquivos no KDE Plasma.
 - 📖 [Okular](https://github.com/KDE/okular): Leitor de PDF e outros formatos, poderoso e eficiente.
 - 📝 [Obsidian](https://github.com/obsidianmd): Ferramenta para organização de notas e conhecimento, com sincronização entre dispositivos.
 
