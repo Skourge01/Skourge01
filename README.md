@@ -1,7 +1,7 @@
 ## I'am Skourge 
 
 - - - 
-### Confira no que estou trabalhando atualmente
+### Experiencias
 - 💻 Arch Linux + DWM : Configuração otimizada para máxima produtividade e personalização no desktop.
 - ⚙️ Shell Scripts: Criação de scripts para automação de tarefas e otimização do sistema.
 - 📚 Matemática & Física: Estudo contínuo de conceitos avançados para aprimoramento técnico e intelectual.
