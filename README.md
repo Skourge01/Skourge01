@@ -1,23 +1,22 @@
 ## I'am Skourge 
 
 - - - 
-### Experiencias
-- 💻 Arch Linux + xfce4: Configuração otimizada para máxima produtividade e personalização no desktop.
-- ⚙️ Shell Scripts: criaçaõ de scripts e manipulação de sistemas 
-- 📚 Matemática & Física: Estudo contínuo de conceitos avançados para aprimoramento técnico e intelectual.
+## 🧑‍💼 Oque estou trabalhando atualmente: 
+-  [skouswap](https://github.com/Skourge01/skouswap) - Script de swap ( memoria virtual ) para linux
+-  [skouDWM](https://github.com/Skourge01/skouDWM) -  minha config file para [DWM](https://dwm.suckless.org/) [arch linux](https://github.com/archlinux) 
+-  [skoumenu](https://github.com/Skourge01/skoumenu) - menu em CLI para instalar minhas aplicações que uso diariamente 
 
-### Meus últimos projetos
-- 🔧 [skouswap](https://github.com/Skourge01/skouswap): Script de swap ( memoria virtual ) para linux
-- 🌐 [skouDWM](https://github.com/Skourge01/skouDWM): minha config file para [DWM](https://dwm.suckless.org/) [arch linux](https://github.com/archlinux) 
+## 🗄️ Caixa de entrada para projetos 
+- otimização de CPU
+- otimização de bateria para laptops
+- otimização de HD's 
 
-### Atividades e melhorias em andamento
-- ⚡ Otimização do Arch Linux: Ajustes para desempenho em máquinas com pouca memória RAM, incluindo gerenciamento de processos e serviços.
-- 🔋 Otimização de CPU e Bateria: Ajustes avançados para melhorar a duração da bateria e desempenho da CPU, utilizando ferramentas como cpupower e tlp.
-
-### Ferramentas e Tecnologias de Interesse
-- 🗂️ [Thunar](https://github.com/xfce-mirror/thunar): Gerenciador de arquivos gráfico para facilitar a navegação e gestão de arquivos no KDE Plasma.
-- 📖 [Okular](https://github.com/KDE/okular): Leitor de PDF e outros formatos, poderoso e eficiente.
-- 📝 [Obsidian](https://github.com/obsidianmd): Ferramenta para organização de notas e conhecimento, com sincronização entre dispositivos.
+### 🔨 Ferramentas recomendadas: 
+-  [Thunar](https://github.com/xfce-mirror/thunar): Gerenciador de arquivos gráfico para facilitar a navegação e gestão de arquivos no KDE Plasma.
+-  [Okular](https://github.com/KDE/okular): Leitor de PDF e outros formatos, poderoso e eficiente.
+-  [Obsidian](https://github.com/obsidianmd): Ferramenta para organização de notas e conhecimento, com sincronização entre dispositivos.
+-  [Thorium browser](https://thorium.rocks/): bom fork chromium
+-  [cursor](https://www.cursor.com/): fork vs code com IA interessante
 
 ### Postagens recentes no blog
 - 🔍 Como dominar o i3 e dwm: Um guia para iniciantes.
