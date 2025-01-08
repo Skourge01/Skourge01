@@ -7,8 +7,8 @@
 -  [skoumenu](https://github.com/Skourge01/skoumenu) - menu em CLI para instalar minhas aplicações que uso diariamente 
 
 ## 🗄️ Caixa de entrada para projetos 
-- otimização de CPU
-- otimização de bateria para laptops
+- [otimização de CPU](https://oguzhaninan.github.io/Stacer-Web/)
+- [otimização de bateria para laptops](https://github.com/linrunner/TLP)
 - otimização de HD's 
 
 ### 🔨 Ferramentas recomendadas: 
