@@ -2,7 +2,7 @@
 
 - - - 
 ### Experiencias
-- 💻 Arch Linux + i3wm : Configuração otimizada para máxima produtividade e personalização no desktop.
+- 💻 Arch Linux + xfce4: Configuração otimizada para máxima produtividade e personalização no desktop.
 - ⚙️ Shell Scripts: Criação de scripts para automação de tarefas e otimização do sistema.
 - 📚 Matemática & Física: Estudo contínuo de conceitos avançados para aprimoramento técnico e intelectual.
 
