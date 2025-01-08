@@ -1,7 +1,8 @@
 ## I'am Skourge 
 
 - - - 
-[![blog](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]
+[![blog](![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+)]
 ## 🧑‍💼 Oque estou trabalhando atualmente: 
 -  [skouswap](https://github.com/Skourge01/skouswap) - Script de swap ( memoria virtual ) para linux
 -  [skouDWM](https://github.com/Skourge01/skouDWM) -  minha config file para [DWM](https://dwm.suckless.org/) [arch linux](https://github.com/archlinux) 
