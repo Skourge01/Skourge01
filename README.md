@@ -3,7 +3,7 @@
 - - - 
 ### Experiencias
 - 💻 Arch Linux + xfce4: Configuração otimizada para máxima produtividade e personalização no desktop.
-- ⚙️ Shell Scripts: Criação de scripts para automação de tarefas e otimização do sistema.
+- ⚙️ Shell Scripts: criaçaõ de scripts e manipulação de sistemas 
 - 📚 Matemática & Física: Estudo contínuo de conceitos avançados para aprimoramento técnico e intelectual.
 
 ### Meus últimos projetos
