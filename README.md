@@ -6,7 +6,7 @@
 ## 🧑‍💼 Oque estou trabalhando atualmente: 
 -  [skouswap](https://github.com/Skourge01/skouswap) - Script de swap ( memoria virtual ) para linux
 -  [skouDWM](https://github.com/Skourge01/skouDWM) -  minha config file para [DWM](https://dwm.suckless.org/) [arch linux](https://github.com/archlinux) 
--  [skoumenu](https://github.com/Skourge01/skoumenu) - menu em CLI para instalar minhas aplicações que uso diariamente 
+
 
 ## 🗄️ Caixa de entrada para projetos 
 - [otimização de CPU](https://oguzhaninan.github.io/Stacer-Web/)
