@@ -14,7 +14,7 @@
 - otimização de HD's 
 
 ### 🔨 Ferramentas recomendadas: 
--  [Thunar](https://github.com/xfce-mirror/thunar): Gerenciador de arquivos gráfico para facilitar a navegação e gestão de arquivos no KDE Plasma.
+-  [Thunar](https://github.com/xfce-mirror/thunar): Gerenciador de arquivos gráfico.
 -  [Okular](https://github.com/KDE/okular): Leitor de PDF e outros formatos, poderoso e eficiente.
 -  [Obsidian](https://github.com/obsidianmd): Ferramenta para organização de notas e conhecimento, com sincronização entre dispositivos.
 -  [Thorium browser](https://thorium.rocks/): bom fork chromium
