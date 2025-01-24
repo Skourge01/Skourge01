@@ -5,7 +5,7 @@
 
 ## 🧑‍💼 Oque estou trabalhando atualmente: 
 -  [skouswap](https://github.com/Skourge01/skouswap) - Script de swap ( memoria virtual ) para linux
--  [skouDWM](https://github.com/Skourge01/skouDWM) -  minha config file para [DWM](https://dwm.suckless.org/) [arch linux](https://github.com/archlinux)
+-  [skouI3WM](https://github.com/Skourge01/skoui3wm) -  minha config file para [I3WM]() [arch linux](https://github.com/archlinux)
 -  [skounvim](https://github.com/Skourge01/skounvim) - minha config do neovim
 -  [skouswalls](https://github.com/Skourge01/skouswalls) - meus wallpapers dos sistemas
 -  [skourepo](https://github.com/Skourge01/skourepo) - repositorio de instalacao facil de aplicacoes 
