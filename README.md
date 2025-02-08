@@ -4,6 +4,7 @@
 ![blog](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🧑‍💼 Oque estou trabalhando atualmente: 
+-  [skouoptmizer](https://github.com/Skourge01/skouoptmizer) - o otimizador absoluto para linux
 -  [skouswap](https://github.com/Skourge01/skouswap) - Script de swap ( memoria virtual ) para linux
 -  [skouI3WM](https://github.com/Skourge01/skoui3wm) -  minha config file para [I3WM]() [arch linux](https://github.com/archlinux)
 -  [skounvim](https://github.com/Skourge01/skounvim) - minha config do neovim
