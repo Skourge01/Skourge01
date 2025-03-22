@@ -7,10 +7,8 @@
 ## 🧑‍💼 What I'm currently working on:
 - [skouoptmizer](https://github.com/Skourge01/skouoptmizer) - the ultimate optimizer for linux
 - [skouswap](https://github.com/Skourge01/skouswap) - Swap (virtual memory) script for linux
-- [skouI3WM](https://github.com/Skourge01/skoui3wm) - my config file for [I3WM]() [arch linux](https://github.com/archlinux)
 - [skounvim](https://github.com/Skourge01/skounvim) - my neovim config
 - [skouswalls](https://github.com/Skourge01/skouswalls) - my system wallpapers
-- [skourepo](https://github.com/Skourge01/skourepo) - easy-to-install application repository
 
 ## 🗄️ Inbox for projects
 - [CPU optimization](https://oguzhaninan.github.io/Stacer-Web/)
