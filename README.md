@@ -7,7 +7,6 @@
 ## 🧑‍💼 What I'm currently working on:
 - [skouoptmizer](https://github.com/Skourge01/skouoptmizer) - the ultimate optimizer for linux
 - [skouswap](https://github.com/Skourge01/skouswap) - Swap (virtual memory) script for linux
-- [skounvim](https://github.com/Skourge01/skounvim) - my neovim config
 - [skouswalls](https://github.com/Skourge01/skouswalls) - my system wallpapers
 
 ## 🗄️ Inbox for projects
